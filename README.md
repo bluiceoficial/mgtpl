@@ -1,7 +1,9 @@
 # MGTPL
 
-> [!NOTE]
-> This repository has been migrated to Codeberg, please see: https://codeberg.org/bluice/mgtpl
+<!-- Badge opcional para deixar claro visualmente -->
+![Status](https://img.shields.io/badge/status-arquivado--archived-red.svg)
+
+> **Aviso importante:** Esta biblioteca foi **oficialmente arquivada** e não receberá mais atualizações, correções de bugs ou suporte para novas versões.
 
 MGTPL é uma biblioteca leve e prática para gerar HTML dinamicamente em Go. Ela permite criar tags HTML, aninhar elementos, trabalhar com tags que não fecham, atributos sem valor e gerar páginas completas de forma programática.
 
